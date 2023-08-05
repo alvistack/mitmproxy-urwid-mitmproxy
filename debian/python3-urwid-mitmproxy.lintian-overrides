@@ -1,0 +1,4 @@
+python3-urwid-mitmproxy: copyright-without-copyright-notice
+python3-urwid-mitmproxy: initial-upload-closes-no-bugs
+python3-urwid-mitmproxy: no-manual-page
+python3-urwid-mitmproxy: zero-byte-file-in-doc-directory

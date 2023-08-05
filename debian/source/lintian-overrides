@@ -1,0 +1,5 @@
+python-urwid-mitmproxy source: file-without-copyright-information
+python-urwid-mitmproxy source: no-debian-changes
+python-urwid-mitmproxy source: source-contains-prebuilt-windows-binary
+python-urwid-mitmproxy source: source-is-missing
+python-urwid-mitmproxy source: source-package-encodes-python-version
